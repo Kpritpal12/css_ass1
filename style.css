@@ -1,0 +1,22 @@
+.head{
+    color: red;
+}
+.root{
+    color: orange;
+}
+p{
+    color: maroon;
+}
+.maroon{
+    color: maroon;
+}
+.space{
+    letter-spacing: 4px;
+}
+.highlight{
+    background-color: yellow;
+    font-weight: 600;
+}
+.link{
+    text-decoration: none;
+}
